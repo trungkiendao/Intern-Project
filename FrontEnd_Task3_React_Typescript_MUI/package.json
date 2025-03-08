@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^6.4.7",
+    "@mui/material": "^6.4.7",
+    "@mui/system": "^6.4.7"
+  }
+}
