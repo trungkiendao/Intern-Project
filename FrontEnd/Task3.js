@@ -1,4 +1,6 @@
-    document.addEventListener("DOMContentLoaded", function () {
+  //Tạo 1 trang web hiện ảnh với api miễn phí, nhập số lượng ảnh cần hiện
+  //Bài này e có làm 2 cách 1 cáh bằng react_typescript_mui
+  document.addEventListener("DOMContentLoaded", function () {
         const amountInput = document.getElementById("amount");
         const loadButton = document.querySelector(".load-btn");
         const clearButton = document.querySelector(".clear-btn");

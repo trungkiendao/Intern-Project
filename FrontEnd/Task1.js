@@ -1,3 +1,4 @@
+//Tìm số bị mất trong dãy số
 //Cách 1: Sử dụng vòng lặp
 function findMissingNumber(arr){
     for(i=0; i<arr.length-1; i++){

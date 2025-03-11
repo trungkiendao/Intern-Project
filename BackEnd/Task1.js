@@ -1,3 +1,4 @@
+//Kiểm tra số trùng lặp
 function findDuplicates(arr){
     let count = new Map()
     let duplicates = [];

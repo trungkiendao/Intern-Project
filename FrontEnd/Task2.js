@@ -1,3 +1,4 @@
+//Kiểm tra email: có ít nhất 8 kí tự, có 1 chữ viết hoa, có 1 kí tự đặc biệt
 function isValidPassword(password){
     //Kiểm tra độ dài
     if(password.length <8){

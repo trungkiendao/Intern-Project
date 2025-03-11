@@ -1,3 +1,4 @@
+//Console log data về thời tiết hà nội từ api của openweathermap
 //Tránh trường hợp lỗi API hoặc apiKey hết hạn e sẽ để 1 ảnh tên "Task2_dataThoiTietHaNoi" e đã lấy data thành công trong folder backEnd
 const axios = require("axios");
 
